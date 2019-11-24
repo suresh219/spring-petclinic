@@ -11,7 +11,7 @@
  |___|   |_______| |___| |_______|_______|___|_|  |__|___|_______|  / / / /
  ==================================================================/_/_/_/
 
-:: Built with Springg Boot :: ${spring-boot.version}
+:: Built with Spring Boot :: ${spring-boot.version}
 
 
 
